@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "vsviridoff_brain_games_v2"
-version = "0.1.0"
+version = "0.2.0"
 description = ""
 authors = ["Vladislav Sviridov <vlad.sviridoff.bz@gmail.com>"]
 packages = [
@@ -10,12 +10,9 @@ packages = [
 
 [tool.poetry.dependencies]
 python = "^3.8"
+prompt = "^0.4.1"
 
 [tool.poetry.dev-dependencies]
-
-[build-system]
-requires = ["poetry>=0.12"]
-build-backend = "poetry.masonry.api"
 
 [[tool.poetry.source]]
 name = "test_repo"
@@ -23,3 +20,7 @@ url = "https://test.pypi.org/legacy/"
 
 [tool.poetry.scripts]
 brain-games = "brain_games.scripts.brain_games:main"
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
+
