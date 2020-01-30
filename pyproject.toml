@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "vsviridoff_brain_games_v2"
-version = "0.2.0"
+version = "0.3.0"
 description = ""
 authors = ["Vladislav Sviridov <vlad.sviridoff.bz@gmail.com>"]
 packages = [
@@ -13,6 +13,7 @@ python = "^3.8"
 prompt = "^0.4.1"
 
 [tool.poetry.dev-dependencies]
+flake8 = "^3.7.9"
 
 [[tool.poetry.source]]
 name = "test_repo"
