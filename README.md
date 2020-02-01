@@ -7,5 +7,5 @@
 <p><b>Brain-even</b></p>
 <a href="https://asciinema.org/a/jer5DwNesacBXNkytXpSmhoc1" target="_blank"><img src="https://asciinema.org/a/jer5DwNesacBXNkytXpSmhoc1.svg" /></a>
 
-<p><b>Brain-even</b></p>
+<p><b>Brain-calc</b></p>
 <a href="https://asciinema.org/a/uVf9srYFbf7NmiB7VMLEdGE8S" target="_blank"><img src="https://asciinema.org/a/uVf9srYFbf7NmiB7VMLEdGE8S.svg" /></a>
