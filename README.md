@@ -5,4 +5,4 @@
 [![Build Status](https://travis-ci.org/vsviridoff/python-project-lvl1.svg?branch=master)](https://travis-ci.org/vsviridoff/python-project-lvl1)
 
 <p><b>Brain-even</b></p>
-[![asciicast](https://asciinema.org/a/jer5DwNesacBXNkytXpSmhoc1.svg)](https://asciinema.org/a/jer5DwNesacBXNkytXpSmhoc1)
+<a href="https://asciinema.org/a/jer5DwNesacBXNkytXpSmhoc1" target="_blank"><img src="https://asciinema.org/a/jer5DwNesacBXNkytXpSmhoc1.svg" /></a>
