@@ -4,3 +4,5 @@ dist/
 *.pyc
 .venv/
 .idea/
+.python-version
+
