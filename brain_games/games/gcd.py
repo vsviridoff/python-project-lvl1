@@ -16,6 +16,5 @@ def logic_game():
         devisor += 1
 
     expression = "{} {}".format(number_one, number_two)
-    question = 'Question: ' + expression
 
-    return result, question
+    return result, expression
