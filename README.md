@@ -1,6 +1,6 @@
 # python-project-lvl1
 
-<a href="https://codeclimate.com/github/codeclimate/codeclimate/maintainability"><img src="https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability" /></a>
+<a href="https://codeclimate.com/github/vsviridoff/python-project-lvl1/maintainability"><img src="https://api.codeclimate.com/v1/badges/ea99e06ff99039cf6eb6/maintainability" /></a>
 
 [![Build Status](https://travis-ci.org/vsviridoff/python-project-lvl1.svg?branch=master)](https://travis-ci.org/vsviridoff/python-project-lvl1)
 
