@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "vsviridoff_brain_games_v2"
-version = "0.7.6"
+version = "0.7.7"
 description = ""
 authors = ["Vladislav Sviridov <vlad.sviridoff.bz@gmail.com>"]
 packages = [
